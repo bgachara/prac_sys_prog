@@ -1,1 +1,1 @@
-/home/jara/spectre/dev/rust/prac_sys_prog/my-first-lib/target/debug/mymain: /home/jara/spectre/dev/rust/prac_sys_prog/my-first-lib/src/bin/mymain.rs /home/jara/spectre/dev/rust/prac_sys_prog/my-first-lib/src/lib.rs
+D:\Spectre\dev\rust\prac_sys_prog\my-first-lib\target\debug\mymain.exe: D:\Spectre\dev\rust\prac_sys_prog\my-first-lib\src\bin\mymain.rs D:\Spectre\dev\rust\prac_sys_prog\my-first-lib\src\lib.rs

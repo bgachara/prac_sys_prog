@@ -1,1 +1,1 @@
-/home/jara/spectre/dev/rust/hello/target/debug/nyandarua-rust: /home/jara/spectre/dev/rust/hello/src/main.rs
+D:\Spectre\dev\rust\prac_sys_prog\hello\target\debug\nyandarua-rust.exe: D:\Spectre\dev\rust\prac_sys_prog\hello\src\main.rs
